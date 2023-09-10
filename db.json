@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post"
+    },
+    {
+      "id": 2,
+      "title": "Second Post"
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "Vyawahare",
+      "email": "chinmayvyawahare94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "yawahare",
+      "email": "chnmayvyawahare94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "rtyu",
+      "id": 4
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "Vyawahare",
+      "email": "c94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "Vyawahare",
+      "email": "chinmayvyawahare94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "Vyawahare",
+      "email": "chinmayvyawahare94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "12345",
+      "id": 7
+    }
+  ],
+  "get": [
+    {
+      "id": 1,
+      "title": "First Post"
+    },
+    {
+      "id": 2,
+      "title": "Second Post"
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "Vyawahare",
+      "email": "chinmayvyawahare94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "firstName": "Chinmay",
+      "lastName": "yawahare",
+      "email": "chnmayvyawahare94036@gmail.com",
+      "phoneNo": "7620846379",
+      "password": "rtyu",
+      "id": 4
+    }
+  ]
+}
